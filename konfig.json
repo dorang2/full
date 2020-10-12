@@ -18,9 +18,9 @@
     "akun_utama": {
         "mode_nuyul": "off",
         "number": "+6283123046061",
-        "change_api": "off",
+        "change_api": "on",
         "leave": "off",
-        "msg_bot":"on",
+        "msg_bot":"off",
         "join":"off",
         "visit":"off"
     },
@@ -52,8 +52,8 @@
         },
         "mode":{
             "msg":"on",
-            "join":"off",
-            "visit":"off",
+            "join":"on",
+            "visit":"on",
             "auto_wd":"on"
         }
     }
