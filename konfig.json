@@ -1,0 +1,60 @@
+{
+    "wallet": {
+        "ltc": "MJaY6WH6zJFQeU83JgLpF1Gqi6Ni3aWEzj",
+        "doge": "DCtsvxDBN2xa1PBf5UwjiDrWf7PpRjRgXr",
+        "zec": "t1LsvWW8A5t8q33bAJY25CDmPkeqZK5K65v",
+        "bch": "qrnj8lth6jmy8pwzu80lma26gs5w2mgkgqvdh47qqq",
+        "btc": "36YPB6iRBj6ZKZ5Nvpb8jyS6Xz7XEoePEb"
+    },
+    "referral": {
+        "mode": "on",
+        "ref_5bot": "off",
+        "ref_ltc": "4xhG",
+        "ref_doge": "SylR",
+        "ref_zec": "NwAG",
+        "ref_bch": "waYz",
+        "ref_btc": "6SRb"
+    },
+    "akun_utama": {
+        "mode_nuyul": "off",
+        "number": "+6283123046061",
+        "change_api": "off",
+        "leave": "off",
+        "msg_bot":"on",
+        "join":"off",
+        "visit":"off"
+    },
+    "setting": {
+        "auto_change_api":"on",
+        "allow_NSFW": "on",
+        "auto_switch_mode": "off",
+        "delete_history":"off",
+        "banyak_msg_bot":50,
+        "banyak_join":50,
+        "banyak_visit":300
+    },
+    "fitur": {
+        "grup_tuyul": {
+            "mode": "on",
+            "chat_balance": "on",
+            "group": "@enakenakenakkan",
+            "chat": ["Hai..","absen","good😃","tron"," hehehehe","very nice","hi all","enak say","nice","Thanks servicenya gan"]
+        }, 
+        "proxy": {
+            "proxy": "on",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "leave": {
+            "leave": "on",
+            "usia_channel_leave":7
+        },
+        "mode":{
+            "msg":"on",
+            "join":"off",
+            "visit":"off",
+            "auto_wd":"on"
+        }
+    }
+}
